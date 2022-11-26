@@ -5,7 +5,8 @@ const microApps = [
   {
     name: "micro-react1", // app name registered
     // entry: "//micro-app1.netlify.app/",
-    entry: "//localhost:3001/",
+    // entry: "//localhost:3001/",
+    entry: "//qiankun-test-2v1e.vercel.app/",
     container: "#subapp-viewport",
     activeRule: "/micro-react1",
     props: {
