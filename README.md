@@ -27,8 +27,8 @@ Access the sub application 2(when run independently) via [http://localhost:3002/
 
 You can experience online demo on below mentioned URLs
 
-Main application: - https://main-react-app.netlify.app/
+Main application: - https://qiankun-test.vercel.app/
 
-Sub application 1: - https://micro-app1.netlify.app/
+Sub application 1: - https://qiankun-test-2v1e.vercel.app/
 
 Sub application 2: - https://micro-app2.netlify.app/
