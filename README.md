@@ -1,4 +1,4 @@
-# microfrontend-qiankun
+# microfrontend  with qiankun
 
 Microfrontends using Qiankun framework.
 Main application and sub applications are created using React framework.
